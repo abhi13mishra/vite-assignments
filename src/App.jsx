@@ -1,8 +1,8 @@
 import "./App.css";
-import UserProfiles from "./assignments/assignment-3-user-profiles/UserProfiles";
+import Stopwatch from "./assignments/assignment-4-stopwatch/Stopwatch";
 
 function App() {
-  return <UserProfiles />;
+  return <Stopwatch />;
 }
 
 export default App;
