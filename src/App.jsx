@@ -1,8 +1,8 @@
 import "./App.css";
-import QuoteGenerator from "./assignments/assignment-2-quote-generator/QuoteGenerator";
-import ThemeApp from "./assignments/assignment-1-theme-toggle/ThemeApp";
+import UserProfiles from "./assignments/assignment-3-user-profiles/UserProfiles";
+
 function App() {
-  return <QuoteGenerator />;
+  return <UserProfiles />;
 }
 
 export default App;
